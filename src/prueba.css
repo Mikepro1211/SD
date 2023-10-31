@@ -1,0 +1,39 @@
+.titulos{
+    color: white;
+    text-align: center;
+    
+}
+.titulosBlack{
+    color: rgb(12, 12, 12);
+    text-align: center;
+    
+}
+.imagenGrande{
+    width: 100%;
+    height: 50cqi;
+    object-fit: cover;
+
+}
+
+
+.containerText{
+   position: absolute;
+   top: 15%;
+   display: flexbox;
+   flex-direction: column;
+   align-items: center;
+
+}
+
+
+.informacion{
+    background-color: #b4b4b4;
+   
+}
+.paragraph{
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    text-transform: initial;
+    text-align: justify;
+}
